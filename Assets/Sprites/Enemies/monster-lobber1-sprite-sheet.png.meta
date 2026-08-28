@@ -1,0 +1,1170 @@
+fileFormatVersion: 2
+guid: 722a10b310e242343bc504e5b66d82ca
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6037713460560867805
+    second: monster-lobber1-sprite-sheet_0
+  - first:
+      213: -6396856884938921410
+    second: monster-lobber1-sprite-sheet_1
+  - first:
+      213: -6579273396571499400
+    second: monster-lobber1-sprite-sheet_2
+  - first:
+      213: -8590908854823462973
+    second: monster-lobber1-sprite-sheet_3
+  - first:
+      213: -5266223225339987208
+    second: monster-lobber1-sprite-sheet_4
+  - first:
+      213: 7534788039638050978
+    second: monster-lobber1-sprite-sheet_5
+  - first:
+      213: -5332532190185052887
+    second: monster-lobber1-sprite-sheet_6
+  - first:
+      213: 3327525466189733007
+    second: monster-lobber1-sprite-sheet_7
+  - first:
+      213: -3252332578059138770
+    second: monster-lobber1-sprite-sheet_8
+  - first:
+      213: 7302083296896748633
+    second: monster-lobber1-sprite-sheet_9
+  - first:
+      213: -3701187954111478923
+    second: monster-lobber1-sprite-sheet_10
+  - first:
+      213: 2633066173746398052
+    second: monster-lobber1-sprite-sheet_11
+  - first:
+      213: 4966604890243824405
+    second: monster-lobber1-sprite-sheet_12
+  - first:
+      213: -3028665698517961446
+    second: monster-lobber1-sprite-sheet_13
+  - first:
+      213: 5536640651851579196
+    second: monster-lobber1-sprite-sheet_14
+  - first:
+      213: 2955125847203149175
+    second: monster-lobber1-sprite-sheet_15
+  - first:
+      213: 7396854057017581398
+    second: monster-lobber1-sprite-sheet_16
+  - first:
+      213: 3391053233723758884
+    second: monster-lobber1-sprite-sheet_17
+  - first:
+      213: -1952278328996220839
+    second: monster-lobber1-sprite-sheet_18
+  - first:
+      213: 4870871073040196908
+    second: monster-lobber1-sprite-sheet_19
+  - first:
+      213: -7173638122039358017
+    second: monster-lobber1-sprite-sheet_20
+  - first:
+      213: -4457096261135183983
+    second: monster-lobber1-sprite-sheet_21
+  - first:
+      213: 1999424989696461582
+    second: monster-lobber1-sprite-sheet_22
+  - first:
+      213: -6016945845818420295
+    second: monster-lobber1-sprite-sheet_23
+  - first:
+      213: 7222493890922205569
+    second: monster-lobber1-sprite-sheet_24
+  - first:
+      213: 7853301101046598920
+    second: monster-lobber1-sprite-sheet_25
+  - first:
+      213: 5932678436963750651
+    second: monster-lobber1-sprite-sheet_26
+  - first:
+      213: 1764994577998341652
+    second: monster-lobber1-sprite-sheet_27
+  - first:
+      213: 5842502493232546169
+    second: monster-lobber1-sprite-sheet_28
+  - first:
+      213: -1364587629166251967
+    second: monster-lobber1-sprite-sheet_29
+  - first:
+      213: -2771340145526556007
+    second: monster-lobber1-sprite-sheet_30
+  - first:
+      213: -8657422069478876271
+    second: monster-lobber1-sprite-sheet_31
+  - first:
+      213: -4916895983922443661
+    second: monster-lobber1-sprite-sheet_32
+  - first:
+      213: 4953101771189927246
+    second: monster-lobber1-sprite-sheet_33
+  - first:
+      213: -8105875009781535010
+    second: monster-lobber1-sprite-sheet_34
+  - first:
+      213: 1878415090592116618
+    second: monster-lobber1-sprite-sheet_35
+  - first:
+      213: -3240665577960743341
+    second: monster-lobber1-sprite-sheet_36
+  - first:
+      213: 6315752820139838035
+    second: monster-lobber1-sprite-sheet_37
+  - first:
+      213: 5420909629715808772
+    second: monster-lobber1-sprite-sheet_38
+  - first:
+      213: 3177007799871662176
+    second: monster-lobber1-sprite-sheet_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: monster-lobber1-sprite-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 113
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32ecca7c89bb53ca0800000000000000
+      internalID: -6037713460560867805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-lobber1-sprite-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 113
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3a243e1e8cc937a0800000000000000
+      internalID: -6396856884938921410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-lobber1-sprite-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 113
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8749d2d44b9b1b4a0800000000000000
+      internalID: -6579273396571499400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-lobber1-sprite-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 113
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c75d72c9e5f6c880800000000000000
+      internalID: -8590908854823462973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-lobber1-sprite-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 113
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fab2b1d0ed9ae6b0800000000000000
+      internalID: -5266223225339987208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-lobber1-sprite-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 98
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a8ec701dc1f09860800000000000000
+      internalID: 7534788039638050978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-lobber1-sprite-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 96
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9252faad93a0ff5b0800000000000000
+      internalID: -5332532190185052887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-lobber1-sprite-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 96
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8c1e4118cebd2e20800000000000000
+      internalID: 3327525466189733007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-lobber1-sprite-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 96
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e29ca5970c46dd2d0800000000000000
+      internalID: -3252332578059138770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-lobber1-sprite-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 96
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95c08d70216365560800000000000000
+      internalID: 7302083296896748633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-lobber1-sprite-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 80
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5730b3c5a2db2acc0800000000000000
+      internalID: -3701187954111478923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-lobber1-sprite-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 80
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46340440cb78a8420800000000000000
+      internalID: 2633066173746398052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-lobber1-sprite-sheet_12
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 80
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51b73be55dcece440800000000000000
+      internalID: 4966604890243824405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-lobber1-sprite-sheet_13
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 80
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a153d60089408f5d0800000000000000
+      internalID: -3028665698517961446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-lobber1-sprite-sheet_14
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 80
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3fb996a65916dc40800000000000000
+      internalID: 5536640651851579196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-lobber1-sprite-sheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7757e151d47b20920800000000000000
+      internalID: 2955125847203149175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-lobber1-sprite-sheet_16
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 48
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f90fb1397e6a660800000000000000
+      internalID: 7396854057017581398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-lobber1-sprite-sheet_17
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 64
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4295b8213f07f0f20800000000000000
+      internalID: 3391053233723758884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-lobber1-sprite-sheet_18
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 49
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 950bc71143d18e4e0800000000000000
+      internalID: -1952278328996220839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-lobber1-sprite-sheet_19
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 64
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2569471f6fc89340800000000000000
+      internalID: 4870871073040196908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-lobber1-sprite-sheet_20
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 48
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbdc4a4b22e127c90800000000000000
+      internalID: -7173638122039358017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-lobber1-sprite-sheet_21
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 64
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19fc051b0963522c0800000000000000
+      internalID: -4457096261135183983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-lobber1-sprite-sheet_22
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 49
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0b85e94f626fbb10800000000000000
+      internalID: 1999424989696461582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-lobber1-sprite-sheet_23
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 64
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b31b33e1a38f7ca0800000000000000
+      internalID: -6016945845818420295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-lobber1-sprite-sheet_24
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 49
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 181d8d86de37b3460800000000000000
+      internalID: 7222493890922205569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-lobber1-sprite-sheet_25
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 32
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80d011a2eb78cfc60800000000000000
+      internalID: 7853301101046598920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-lobber1-sprite-sheet_26
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf218d11b9b155250800000000000000
+      internalID: 5932678436963750651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-lobber1-sprite-sheet_27
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 416e414a7358e7810800000000000000
+      internalID: 1764994577998341652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-lobber1-sprite-sheet_28
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 31
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 971c57c001db41150800000000000000
+      internalID: 5842502493232546169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-lobber1-sprite-sheet_29
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 32
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14037aaf7c2001de0800000000000000
+      internalID: -1364587629166251967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-lobber1-sprite-sheet_30
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 32
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99a3c1222d83a89d0800000000000000
+      internalID: -2771340145526556007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-lobber1-sprite-sheet_31
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 16
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b951e2f78aad780800000000000000
+      internalID: -8657422069478876271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-lobber1-sprite-sheet_32
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 16
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37a02c8472da3cbb0800000000000000
+      internalID: -4916895983922443661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-lobber1-sprite-sheet_33
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 2
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4d322871d3fcb440800000000000000
+      internalID: 4953101771189927246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-lobber1-sprite-sheet_34
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 16
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ede614810a5228f80800000000000000
+      internalID: -8105875009781535010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-lobber1-sprite-sheet_35
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 16
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8fe9779298711a10800000000000000
+      internalID: 1878415090592116618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-lobber1-sprite-sheet_36
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 0
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35e50dd93d7d603d0800000000000000
+      internalID: -3240665577960743341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-lobber1-sprite-sheet_37
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 0
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a4b954abf06a750800000000000000
+      internalID: 6315752820139838035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-lobber1-sprite-sheet_38
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 0
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40284b64690fa3b40800000000000000
+      internalID: 5420909629715808772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-lobber1-sprite-sheet_39
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 0
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 068eeffe2cff61c20800000000000000
+      internalID: 3177007799871662176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      monster-lobber1-sprite-sheet_0: -6037713460560867805
+      monster-lobber1-sprite-sheet_1: -6396856884938921410
+      monster-lobber1-sprite-sheet_10: -3701187954111478923
+      monster-lobber1-sprite-sheet_11: 2633066173746398052
+      monster-lobber1-sprite-sheet_12: 4966604890243824405
+      monster-lobber1-sprite-sheet_13: -3028665698517961446
+      monster-lobber1-sprite-sheet_14: 5536640651851579196
+      monster-lobber1-sprite-sheet_15: 2955125847203149175
+      monster-lobber1-sprite-sheet_16: 7396854057017581398
+      monster-lobber1-sprite-sheet_17: 3391053233723758884
+      monster-lobber1-sprite-sheet_18: -1952278328996220839
+      monster-lobber1-sprite-sheet_19: 4870871073040196908
+      monster-lobber1-sprite-sheet_2: -6579273396571499400
+      monster-lobber1-sprite-sheet_20: -7173638122039358017
+      monster-lobber1-sprite-sheet_21: -4457096261135183983
+      monster-lobber1-sprite-sheet_22: 1999424989696461582
+      monster-lobber1-sprite-sheet_23: -6016945845818420295
+      monster-lobber1-sprite-sheet_24: 7222493890922205569
+      monster-lobber1-sprite-sheet_25: 7853301101046598920
+      monster-lobber1-sprite-sheet_26: 5932678436963750651
+      monster-lobber1-sprite-sheet_27: 1764994577998341652
+      monster-lobber1-sprite-sheet_28: 5842502493232546169
+      monster-lobber1-sprite-sheet_29: -1364587629166251967
+      monster-lobber1-sprite-sheet_3: -8590908854823462973
+      monster-lobber1-sprite-sheet_30: -2771340145526556007
+      monster-lobber1-sprite-sheet_31: -8657422069478876271
+      monster-lobber1-sprite-sheet_32: -4916895983922443661
+      monster-lobber1-sprite-sheet_33: 4953101771189927246
+      monster-lobber1-sprite-sheet_34: -8105875009781535010
+      monster-lobber1-sprite-sheet_35: 1878415090592116618
+      monster-lobber1-sprite-sheet_36: -3240665577960743341
+      monster-lobber1-sprite-sheet_37: 6315752820139838035
+      monster-lobber1-sprite-sheet_38: 5420909629715808772
+      monster-lobber1-sprite-sheet_39: 3177007799871662176
+      monster-lobber1-sprite-sheet_4: -5266223225339987208
+      monster-lobber1-sprite-sheet_5: 7534788039638050978
+      monster-lobber1-sprite-sheet_6: -5332532190185052887
+      monster-lobber1-sprite-sheet_7: 3327525466189733007
+      monster-lobber1-sprite-sheet_8: -3252332578059138770
+      monster-lobber1-sprite-sheet_9: 7302083296896748633
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

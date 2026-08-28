@@ -1,0 +1,1224 @@
+fileFormatVersion: 2
+guid: 1c223ed639a907647b6071078a8021a7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8413271444195615931
+    second: monster-grunt1-alt-sprite-sheet_0
+  - first:
+      213: -7721210638019389690
+    second: monster-grunt1-alt-sprite-sheet_1
+  - first:
+      213: -5232445724716747999
+    second: monster-grunt1-alt-sprite-sheet_2
+  - first:
+      213: -9006810452515352142
+    second: monster-grunt1-alt-sprite-sheet_3
+  - first:
+      213: 1905215549732102910
+    second: monster-grunt1-alt-sprite-sheet_4
+  - first:
+      213: -2005038383763040864
+    second: monster-grunt1-alt-sprite-sheet_5
+  - first:
+      213: -8698390740770656955
+    second: monster-grunt1-alt-sprite-sheet_6
+  - first:
+      213: -1907251479322769281
+    second: monster-grunt1-alt-sprite-sheet_7
+  - first:
+      213: -7060673349571346458
+    second: monster-grunt1-alt-sprite-sheet_8
+  - first:
+      213: -7369808839506836252
+    second: monster-grunt1-alt-sprite-sheet_9
+  - first:
+      213: 8783069121112847954
+    second: monster-grunt1-alt-sprite-sheet_10
+  - first:
+      213: -8280117043853996397
+    second: monster-grunt1-alt-sprite-sheet_11
+  - first:
+      213: -2961272062115910191
+    second: monster-grunt1-alt-sprite-sheet_12
+  - first:
+      213: 3571522510194192976
+    second: monster-grunt1-alt-sprite-sheet_13
+  - first:
+      213: -284534404238664103
+    second: monster-grunt1-alt-sprite-sheet_14
+  - first:
+      213: 9130198518937470902
+    second: monster-grunt1-alt-sprite-sheet_15
+  - first:
+      213: -2811863927305186202
+    second: monster-grunt1-alt-sprite-sheet_16
+  - first:
+      213: -2075754792986268099
+    second: monster-grunt1-alt-sprite-sheet_17
+  - first:
+      213: -4674033652902139720
+    second: monster-grunt1-alt-sprite-sheet_18
+  - first:
+      213: 4219867829252136579
+    second: monster-grunt1-alt-sprite-sheet_19
+  - first:
+      213: -5701759773685128508
+    second: monster-grunt1-alt-sprite-sheet_20
+  - first:
+      213: 7577316013059963495
+    second: monster-grunt1-alt-sprite-sheet_21
+  - first:
+      213: -7636713912567108666
+    second: monster-grunt1-alt-sprite-sheet_22
+  - first:
+      213: -7237212051423454570
+    second: monster-grunt1-alt-sprite-sheet_23
+  - first:
+      213: 6385853028186698415
+    second: monster-grunt1-alt-sprite-sheet_24
+  - first:
+      213: 792873132368661662
+    second: monster-grunt1-alt-sprite-sheet_25
+  - first:
+      213: -3064518654136665702
+    second: monster-grunt1-alt-sprite-sheet_26
+  - first:
+      213: 8859735488684183425
+    second: monster-grunt1-alt-sprite-sheet_27
+  - first:
+      213: 3669221951473636319
+    second: monster-grunt1-alt-sprite-sheet_28
+  - first:
+      213: -8674405890025383403
+    second: monster-grunt1-alt-sprite-sheet_29
+  - first:
+      213: -1615101562367017664
+    second: monster-grunt1-alt-sprite-sheet_30
+  - first:
+      213: 6915426357588082724
+    second: monster-grunt1-alt-sprite-sheet_31
+  - first:
+      213: 8999298103703315731
+    second: monster-grunt1-alt-sprite-sheet_32
+  - first:
+      213: 1040906007995587968
+    second: monster-grunt1-alt-sprite-sheet_33
+  - first:
+      213: -2429377988821945788
+    second: monster-grunt1-alt-sprite-sheet_34
+  - first:
+      213: 3507473489554769680
+    second: monster-grunt1-alt-sprite-sheet_35
+  - first:
+      213: -2869337392739573087
+    second: monster-grunt1-alt-sprite-sheet_36
+  - first:
+      213: -2695452985412139345
+    second: monster-grunt1-alt-sprite-sheet_37
+  - first:
+      213: 8839643860052140081
+    second: monster-grunt1-alt-sprite-sheet_38
+  - first:
+      213: 6008037006677762310
+    second: monster-grunt1-alt-sprite-sheet_39
+  - first:
+      213: 2802392260465098018
+    second: monster-grunt1-alt-sprite-sheet_40
+  - first:
+      213: -112070043932266305
+    second: monster-grunt1-alt-sprite-sheet_41
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: monster-grunt1-walk-up-1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54b58c9623e0e3b80800000000000000
+      internalID: -8413271444195615931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-grunt1-walk-up-2
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60713ec55dfb8d490800000000000000
+      internalID: -7721210638019389690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-grunt1-walk-up-3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1233fb7065e9267b0800000000000000
+      internalID: -5232445724716747999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-grunt1-melee-up-1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b11c821d91610380800000000000000
+      internalID: -9006810452515352142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-grunt1-melee-up-2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 168
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef2255eb27fa07a10800000000000000
+      internalID: 1905215549732102910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-grunt1-walk-upright-1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a5d7ce863cac24e0800000000000000
+      internalID: -2005038383763040864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-grunt1-walk-upright-2
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 144
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54d61d215bb194780800000000000000
+      internalID: -8698390740770656955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-grunt1-walk-upright-3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f78c0a572e41885e0800000000000000
+      internalID: -1907251479322769281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-grunt1-melee-upright-1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 144
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ef7bb36ff2730e90800000000000000
+      internalID: -7060673349571346458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-grunt1-melee-upright-2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e449aa48ed29b990800000000000000
+      internalID: -7369808839506836252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-grunt1-walk-right-1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25632a9b4dab3e970800000000000000
+      internalID: 8783069121112847954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-grunt1-walk-right-2
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39ecc662b6d171d80800000000000000
+      internalID: -8280117043853996397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-grunt1-walk-right-3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ddea4ebfb277e6d0800000000000000
+      internalID: -2961272062115910191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-grunt1-melee-right-1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 052bf6fdcc8909130800000000000000
+      internalID: 3571522510194192976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-grunt1-melee-right-2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95e1af487712d0cf0800000000000000
+      internalID: -284534404238664103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-grunt1-melee-right-3
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b7c01add2bf4be70800000000000000
+      internalID: 9130198518937470902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-grunt1-walk-downright-1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6645d30f7a04af8d0800000000000000
+      internalID: -2811863927305186202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-grunt1-walk-downright-2
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e2d3b73007133e0800000000000000
+      internalID: -2075754792986268099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-grunt1-walk-downright-3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b8eb82282f722fb0800000000000000
+      internalID: -4674033652902139720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-grunt1-melee-downright-1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38e1ca1de6bff8a30800000000000000
+      internalID: 4219867829252136579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-grunt1-melee-downright-2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c2e2eee1b74fd0b0800000000000000
+      internalID: -5701759773685128508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-grunt1-walk-down-1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a715d74c8082960800000000000000
+      internalID: 7577316013059963495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-grunt1-walk-down-2
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cb67265821f40690800000000000000
+      internalID: -7636713912567108666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-grunt1-walk-down-3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69a9abecbf1409b90800000000000000
+      internalID: -7237212051423454570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-grunt1-melee-down-1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa2bbe4de7b1f9850800000000000000
+      internalID: 6385853028186698415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-grunt1-melee-down-2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9c09ceb9e9d00b00800000000000000
+      internalID: 792873132368661662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-grunt1-walk-downleft-1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9930a44584a875d0800000000000000
+      internalID: -3064518654136665702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-grunt1-walk-downleft-2
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f41fe6c7a14fa70800000000000000
+      internalID: 8859735488684183425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-grunt1-walk-downleft-3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd3d6abace1bbe230800000000000000
+      internalID: 3669221951473636319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-grunt1-melee-downleft-1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51a1b7f4dc15e9780800000000000000
+      internalID: -8674405890025383403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-grunt1-melee-downleft-2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d7feaafa10699e0800000000000000
+      internalID: -1615101562367017664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-grunt1-walk-left-1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 420496af1a788ff50800000000000000
+      internalID: 6915426357588082724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-grunt1-walk-left-2
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 315251be1fde3ec70800000000000000
+      internalID: 8999298103703315731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-grunt1-walk-left-3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08d9523df7a027e00800000000000000
+      internalID: 1040906007995587968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-grunt1-melee-left-1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4427d1f279d194ed0800000000000000
+      internalID: -2429377988821945788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-grunt1-melee-left-2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 017030c2e8c0da030800000000000000
+      internalID: 3507473489554769680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-grunt1-melee-left-3
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a2230df7d01e28d0800000000000000
+      internalID: -2869337392739573087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-grunt1-walk-upleft-1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa64eb77ac3d79ad0800000000000000
+      internalID: -2695452985412139345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-grunt1-walk-upleft-2
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 130ee5b9149bcaa70800000000000000
+      internalID: 8839643860052140081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-grunt1-walk-upleft-3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 601ed6c53d5d06350800000000000000
+      internalID: 6008037006677762310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-grunt1-melee-upleft-1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d7356c9e814e620800000000000000
+      internalID: 2802392260465098018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monster-grunt1-melee-upleft-2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb0747983e8d17ef0800000000000000
+      internalID: -112070043932266305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ddeb172ebfd950c419b9a9101506ca3b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":6.0,"y":8.0},"gridSpriteSize":{"x":24.0,"y":24.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      monster-grunt1-melee-down-1: 6385853028186698415
+      monster-grunt1-melee-down-2: 792873132368661662
+      monster-grunt1-melee-downleft-1: -8674405890025383403
+      monster-grunt1-melee-downleft-2: -1615101562367017664
+      monster-grunt1-melee-downright-1: 4219867829252136579
+      monster-grunt1-melee-downright-2: -5701759773685128508
+      monster-grunt1-melee-left-1: -2429377988821945788
+      monster-grunt1-melee-left-2: 3507473489554769680
+      monster-grunt1-melee-left-3: -2869337392739573087
+      monster-grunt1-melee-right-1: 3571522510194192976
+      monster-grunt1-melee-right-2: -284534404238664103
+      monster-grunt1-melee-right-3: 9130198518937470902
+      monster-grunt1-melee-up-1: -9006810452515352142
+      monster-grunt1-melee-up-2: 1905215549732102910
+      monster-grunt1-melee-upleft-1: 2802392260465098018
+      monster-grunt1-melee-upleft-2: -112070043932266305
+      monster-grunt1-melee-upright-1: -7060673349571346458
+      monster-grunt1-melee-upright-2: -7369808839506836252
+      monster-grunt1-walk-down-1: 7577316013059963495
+      monster-grunt1-walk-down-2: -7636713912567108666
+      monster-grunt1-walk-down-3: -7237212051423454570
+      monster-grunt1-walk-downleft-1: -3064518654136665702
+      monster-grunt1-walk-downleft-2: 8859735488684183425
+      monster-grunt1-walk-downleft-3: 3669221951473636319
+      monster-grunt1-walk-downright-1: -2811863927305186202
+      monster-grunt1-walk-downright-2: -2075754792986268099
+      monster-grunt1-walk-downright-3: -4674033652902139720
+      monster-grunt1-walk-left-1: 6915426357588082724
+      monster-grunt1-walk-left-2: 8999298103703315731
+      monster-grunt1-walk-left-3: 1040906007995587968
+      monster-grunt1-walk-right-1: 8783069121112847954
+      monster-grunt1-walk-right-2: -8280117043853996397
+      monster-grunt1-walk-right-3: -2961272062115910191
+      monster-grunt1-walk-up-1: -8413271444195615931
+      monster-grunt1-walk-up-2: -7721210638019389690
+      monster-grunt1-walk-up-3: -5232445724716747999
+      monster-grunt1-walk-upleft-1: -2695452985412139345
+      monster-grunt1-walk-upleft-2: 8839643860052140081
+      monster-grunt1-walk-upleft-3: 6008037006677762310
+      monster-grunt1-walk-upright-1: -2005038383763040864
+      monster-grunt1-walk-upright-2: -8698390740770656955
+      monster-grunt1-walk-upright-3: -1907251479322769281
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
