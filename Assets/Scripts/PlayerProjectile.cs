@@ -28,4 +28,5 @@ public class PlayerProjectile : MonoBehaviour
             Destroy(gameObject);
         }
     }
+    
 }

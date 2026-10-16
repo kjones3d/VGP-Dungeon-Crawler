@@ -229,7 +229,7 @@ MonoBehaviour:
   followRange: 4
   playerLayer:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 64
 --- !u!114 &-145037436943650163
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -243,3 +243,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::EnemyHealth
   health: 1
+  type: 1
